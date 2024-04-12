@@ -1,0 +1,48 @@
+body{
+    background-color: aquamarine;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+ul{
+  list-style:none;
+  display: flex;
+ align-items: center;
+justify-content: space-between;
+width:300px;
+color: blue;
+
+}
+.section-2{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+input{
+    height:35px;
+    width: 300px;
+    background-color:white;
+    border-radius:8px;
+
+    border:none;
+
+}
+#button-1{
+    height: 28px;
+    width:75px;
+    background-color:  blue;
+    color: white;
+    border-radius: 8px;
+}
+.para1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
